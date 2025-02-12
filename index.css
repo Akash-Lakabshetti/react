@@ -1,0 +1,6 @@
+.container {
+    margin: 10px;
+    column-count: 3;
+    column-gap: 100px;
+    column-rule-style: double;
+}
