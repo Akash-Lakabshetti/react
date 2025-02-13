@@ -1,4 +1,7 @@
-let a = 20
-let b = 'nj'
-let c = a - b;
-console.log(c);
+var a = 10;
+{
+    var a = 20;
+    console.log(a);
+    
+}
+console.log(a);
