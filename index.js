@@ -1,8 +1,8 @@
-const obj = {
-    name : 'Akash',
-    age : 52
-};
-for (const key in obj) {
-   console.log(key,obj[key]);
-   
+var x = 10;
+function Add() {
+    console.log(x);
+    var x = 20;
+    
 }
+Add();
+console.log(x);
