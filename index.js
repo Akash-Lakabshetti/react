@@ -6,3 +6,4 @@ function Add() {
 }
 Add();
 console.log(x);
+console.log(4);
